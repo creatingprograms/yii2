@@ -1,0 +1,730 @@
+@media (max-width:1300px){
+	.conteiner, .conteiner1000 {
+		padding: 0px 10px;
+	}
+	.sectImgMain, .sectBitMain:nth-child(2n) .sectImgMain {
+		background: none;
+		padding: 0px !important;
+		margin: 0px;
+		width: 50%;
+	}
+	.sectImgMain img {
+		max-width: 100%;
+	}
+	#hatContact {
+		margin: 0px 250px 0px 400px;
+	}
+	.slideText {
+		padding-top: 20px;
+	}
+	.right_s {
+		right: 20px;
+	}
+	.opisanie table {
+		width: 100% !important;
+	}
+        .advantage li {
+            width: 26%;
+            margin: 5px 0;
+        }
+        .calculation .left {
+            width: 70%;
+        }
+        .calculation .form {
+            background: #FBB033;
+            width: 30%;
+        }
+        .calculation .calc {
+            padding: 0;
+        }
+        .review .left {
+            width: 30%;
+        }
+        .review .right {
+            width: 64%;
+        }
+        .filters .form-group {
+            width: 23%;
+        }
+        .logo {
+            width: 332px;
+            height: 91px;
+            margin: 26px 15px 0 0;
+        }
+        .opis {
+            margin-right: 20px;
+        }
+        .review .lSSlideWrapper, .product .lSSlideWrapper {
+            width: 100%;
+            max-width: 100%;
+            left: 0px;
+        }
+        #reviewList {
+            margin-left: 0;
+        }
+        .product #reviewList {
+            margin-left: 0px;
+        }
+        .reviews .lSAction {
+            display: none !important;
+        }
+        #nainMenu {
+            width: 710px;
+        }
+}
+@media (max-width:1200px){
+    .calculation .left {
+        padding: 31px 10px 9px;
+    }
+    .advBit .adevTit {
+        margin: 0 auto;
+    }
+    .service .left {
+        padding: 50px 43px 9px 1px;
+    }
+    .logo {
+        width: 50%;
+        margin: 20px 0 0;
+        text-align: left;
+        display: inline-block;
+    }
+    #cop {
+        display: inline-block;
+        float: right;
+        padding: 16px 0 0 20px;
+        text-align: right;
+    }
+    .footer .contact {
+        width: 50%;
+        display: inline-block;
+        margin: 20px 1px;
+    }
+    .social {
+        width: 100%;
+        text-align: center;
+        display: block;
+        float: left;
+        padding: 0;
+    }
+    .footer .address .phone, .footer .address .mail {
+        text-align: right;
+    }
+    .service .left p {
+        margin: 0 160px 34px 0;
+        z-index: 1;
+        position: relative;
+    }
+    #nainMenu li {
+        margin: 0 10px;
+    }
+    .opis {
+        width: 50%;
+        margin: 0px;
+        text-align: right;
+    }
+    .header_contact {
+        height: 205px;
+    }
+    .phone {
+        width: 50%;
+        margin-top: 10px;
+        text-align: left;
+    }
+    .footer .phone {
+        width: 100%;
+    }
+    .button2 {
+        margin: 0px 0 0 20px;
+    }
+    .production .lSAction {
+        display: none !important;
+    }
+    .contacts .form {
+        background: url(../images/back_cont.png) no-repeat 50% 0px;
+    }
+    #reviewList .slideText {
+        padding: 0px 30px;
+    }
+    .contacts .address, .contacts .time, .contacts .phone, .contacts .mail {
+        width: 50%;
+        padding: 10px 20px 24px 0;
+    }
+    .slideBit img {
+        max-width: 100%;
+        height: 100%;
+    }
+}
+@media (max-width:1000px){
+        #openMenu {
+            float: right;
+        }
+        #nainMenu {
+            width: 240px;
+            height: 360px;
+            bottom: auto;
+            background-color: #fff;
+            border: 2px solid;
+            margin-top: 0px;
+            left: auto;
+            top: 74px;
+            right: 44px;
+            z-index: 1;
+            position: absolute;
+        }
+        #nainMenu li:first-child {
+            margin-left: 10px;
+        }
+        .header .phone, .header .mail {
+            text-align: left;
+        }
+        #nainMenu li {
+            float: none;
+            margin: 27px 12px;
+        }
+	.logo {
+            width: 50%;
+	}
+	#hatContact {
+		margin: 0px 250px 0px 150px;
+	}
+	#hatPhone {
+		font-size: 18px;
+	}
+	#callBox {
+		padding: 0px;
+		top: 0px;
+		left: 0px;
+		right: 0px;
+		margin: 0px;
+		width: 100%;
+	}
+	#callBox .titleBig {
+		font-size: 18px;
+		padding: 0px 0px 10px 0px;
+	}
+	#callBox #callForm input[type=text], #callBox.min #callForm input[type=tel], #callBox.min #callForm input[type=email], #callBox.min #callForm textarea
+	{
+		margin: 10px auto;
+		display: block;
+		line-height: 26px;
+		font-size: 16px;
+	}
+	#callBox #call {
+		padding: 10px !important;
+		border: 1px solid #bebebe;
+	}
+	.slideTitle {
+            padding-top: 20px;
+            font-size: 30px;
+	}
+	.slideText {
+            padding-top: 10px;
+            font-size: 16px;
+	}
+        .slideBit a, .breadcrumb a, .breadcrumb > .active {
+            margin-bottom: 30px;
+        }
+        .advantage li {
+            width: 100%;
+            margin: 5px 0;
+        }
+	.lSSlideOuter .lSPager.lSpg {
+		bottom: 10px;
+	}
+	.padDesc {
+		padding-left: 20px;
+	}
+	.sectBitMain:nth-child(2n) .padDesc {
+		padding-right: 20px;
+	}
+	#steps .conteiner::after, #steps .conteiner::before {
+		display: none;
+	}
+	#steps .conteiner {
+		background: none;
+	}
+	.variant {
+		padding-left: 30px;
+	}
+	.pogonash {
+		padding: 20px 15px;
+	}
+        #mainShow {
+            padding-top: 150px;
+        }
+        .contact {
+            margin: 10px 23px 10px 0;
+            float: left;
+        }
+        .whatsapp {
+            width: 152px;
+            height: 46px;
+            float: right;
+            margin: 0px 34px 10px;
+        }
+        .header .contacts {
+            width: 70%;
+            padding: 10px 0;
+            overflow: hidden;
+        }
+        .calculation {
+            overflow: hidden;
+        }
+        .calculation .calculation_bg, .service_image {
+            display: none;
+        }
+        .calculation .left, .calculation .form {
+            width: 100%;
+            height: auto;
+        }
+        .service .left {
+            width: 100%;
+            padding: 30px 0;
+            height: auto;
+        }
+        .service {
+            height: auto;
+            display: block;
+            overflow: hidden;
+        }
+        .service .form {
+            width: 90%;
+            margin: 0;
+        }
+        .advBit {
+            float: left;
+            margin: 0 10px 0px 0;
+            width: 100%;
+        }
+        .buyout .advBit {
+            width: 48%;
+        }
+        #advantages .img  {
+            display: none;
+        }
+        .buy {
+            width: 60%;
+            float: right;
+        }
+        .elBit {
+            width: 48%;
+        }
+        #openMenu {
+            padding: 10px 15px 0px 15px;
+        }
+        #advantages .advImg {
+            height: 200px;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50px;
+            border: 1px solid green;
+        }
+        .product h1 {
+            font-size: 35px;
+        }
+        .etaps .advBit {
+            width: 48%;
+        }
+        .license .advImg {
+            margin: 0px auto;
+        }
+        .license .advBit {
+            height: 330px;
+        }
+        .reviews .slideText {
+            padding: 45px 20px;
+        }
+}
+@media (max-width:800px){
+    h2, h3, .production h3, .list-view h3, .list-view p {
+        font-size: 33px;
+    }
+    .elBit h3, .elBit p {
+         font-size: 15px;
+    }
+	.lSSlideOuter .lSPager.lSpg {
+		display: none !important;
+	}
+	#main_all {
+		background-image: none;
+		padding: 40px 0px;
+		margin: 0px;
+	}
+	a.sectLinkMain {
+		margin: 10px 0px;
+	}
+	.stepBit {
+		width: 33.3%;
+		margin-bottom: 20px;
+	}
+	#heelBox {
+		text-align: center;
+	}
+	#cop {
+		float: none;
+		clear: both;
+		margin: 0px;
+		width: 100%;
+		padding: 0px;
+	}
+	#effectis {
+		float: none;
+		display: inline-block;
+		margin-bottom: 45px;
+		margin-top: 15px;
+	}
+	.padDesc h3 {
+		font-size: 20px;
+		padding-bottom: 20px;
+	}
+	#content h1, #contacttitle, .titleBig {
+		font-size: 30px;
+		padding: 20px 0px;
+		letter-spacing: 6px;
+	}
+	.elImg, .sectImg {
+		display: inline-block;
+	}
+	#galery {
+		width: 100%;
+		float: none;
+	}.variant {
+		width: 100%;
+		float: none;
+		padding-left: 0;
+	}
+        .review .left {
+            width: 100%;
+            height: auto;
+            padding: 0 0 40px;
+        }
+        .review .right {
+            width: 100%;
+        }
+        .group {
+            padding: 5px 0;
+        }
+        .calculation .left span {
+            float: none;
+            margin-bottom: 10px;
+            display: block;
+        }
+        .calculation .left .rad_const {
+            float: left;
+        }
+        .buy {
+            width: 75%;
+            float: right;
+        }
+        .site-index .body-content img {
+            width: 100%;
+        }
+        .header_contact {
+            height: 325px;
+        }
+        .logo {
+            width: 100%;
+            text-align: center;
+        }
+        .opis {
+            width: 100%;
+            margin: 0px;
+            text-align: center;
+            padding: 10px 0;
+        }
+        .phone {
+            width: 100%;
+            margin: 15px 0;
+            text-align: center;
+            float: none;
+        }
+        .button2 {
+            margin: 0px 0 0 -130px;
+            left: 50%;
+            float: none;
+            display: block;
+            position: relative;
+        }
+        #mainShow .slideBit {
+            height: 650px;
+        }
+        .dop_infa {
+            position: absolute;
+            left: 40%;
+            top: 410px;
+        }
+        #advantages {
+            margin: 80px 0 20px;
+        }
+        #reviewList {
+            height: 367px !important;
+        }
+        #reviewList .slideBit img {
+            height: 100%;
+        }
+        .service .conteiner {
+            position: absolute;
+            top: 10px;
+            left: 50%;
+            margin-left: 0;
+        }
+        .service .form {
+            width: 400px;
+            margin: 0;
+            padding: 10px;
+        }
+        .service .conteiner h3 {
+            font-size: 25px;
+        }
+        .service .form p {
+            padding: 0 30px;
+        }
+        #calcul-form .form__item {
+            width: 90%;
+            float: none;
+            margin-left: 15px;
+        }
+        .footer .left {
+            width: 100%;
+            float: none;
+            text-align: center;
+        }
+        .footer .logo {
+            width: 250px;
+            display: block;
+            float: none;
+            margin: 0 auto;
+        }
+        .footer .left .phone, .footer .left .mail {
+            text-align: center;
+        }
+        .footer .center, .footer .right {
+            float: none;
+            width: 100%;
+        }
+        .teg {
+            float: none;
+            width: 100%;
+            padding: 10px 0;
+        }
+        .contacts .form {
+            background: #3a3f49;
+            margin-top: 70px;
+        }
+        .contacts .form {
+            padding: 20px 20px 20px 40px;
+        }
+        #calcul-form .popup_btn {
+            margin: 0;
+        }
+        .reviews .slideText {
+            font-size: 15px;
+        }
+        .breadcrumb {
+            padding: 0px 0 0px 0;
+        }
+        #reviewList .slideText {
+            overflow: auto;
+            height: 290px;
+        }
+    }
+@media (max-width:600px){
+	#hatContact {
+		margin: auto;
+		float: none;
+		clear: both;
+		padding-top: 0px;
+		padding-bottom: 20px;
+	}
+        .footer .logo, #cop, .footer .contact, .footer .address {
+            text-align: center;
+        }
+        .footer .contact .phone, .footer .contact .mail, .footer .address .phone, .footer .address .mail {
+            text-align: center;
+        }
+        .social {
+            padding-top: 20px;
+        }
+        #openMenu {
+            float: right;
+            margin: 5px -15px;
+        }
+        .contacts {
+            display: block;
+            float: left;
+            width: 100%;
+        }
+        #nainMenu {
+            width: 100%;
+            left: inherit;
+            top: auto;
+            margin: 82px 0;
+        }
+        #nainMenu li a {
+            padding: 0px 0px 17px;
+            margin: 0px 0px;
+            border-bottom: 1px solid #e4e4e4;
+            border-radius: 0;
+        }
+	.stepBit {
+		width: 50%;
+		margin-bottom: 20px;
+	}
+	.sectImgMain, .sectImgMain, .sectBitMain:nth-child(2n) .sectImgMain {
+		float: none;
+		clear: both;
+		margin-bottom: 10px;
+		width: 100%;
+	}
+	.sectDectMain, .sectBitMain:nth-child(2n) .sectDectMain {
+		float: none;
+		clear: both;
+		width: 100%;
+	}
+	.padDesc, .sectBitMain:nth-child(2n) .padDesc {
+		padding: 0px;
+	}
+	#mainAboutBox {
+		background-image: none !important;
+	}
+	.adevTit {
+		font-size: 16px;
+		height: 100px;
+	}
+	a.sectLinkMain {
+		font-size: 18px;
+		width: auto;
+		height: auto;
+		padding: 5px;
+	}
+	#boxSoc {
+		top: auto;
+		bottom: 0px;
+	}
+	.sectBit, .elBit {
+		width: 100%;
+	}
+	#hatAdd {
+		font-size: 16px;
+	}
+	.left_block {
+		width: 0;
+		display: none;
+	}
+	.product_info {
+		width: 100%;
+	}
+        .whatsapp {
+            margin: 0;
+        }
+        .advBit {
+            width: 100%;
+        }
+        .buy {
+            width: 100%;
+            float: right;
+        }
+        #reviewList .slideText {
+            padding: 28px 60px;
+        }
+        #reviewList .slideTitle {
+            padding: 30px 60px 0;
+            font-size: 25px;
+        }
+        #reviewList .slideText p {
+            font-size: 15px;
+        }
+        .title {
+            color: #000;
+            font-size: 30px;
+            margin: 30px 0 25px 0;
+        }
+        .filters .form-group {
+            width: 45%;
+        }
+        .header_back .slideBit {
+            padding-bottom: 0px;
+        }
+        .rad_const label {
+            padding: 0 10px 0 25px;
+            font-size: 12px;
+            height: 25px;
+            margin-bottom: 0;
+        }
+        .buy .title {
+            margin: 50px 0 31px;
+        }
+        .calculation .left .rad_const {
+            margin-bottom: 0;
+        }
+        .const_el .range_form {
+            margin: 15px 0;
+        }
+        .buyout .advBit {
+            width: 100%;
+        }
+        .slideTitle, .title, .slideText {
+            width: 100%;
+        }
+        .review .txtBox {
+            padding: 0px 0;
+        }
+        .contacts .address, .contacts .time, .contacts .phone, .contacts .mail {
+            width: 100%;
+            padding: 10px 20px 24px 0;
+        }
+        .product h1 {
+            font-size: 25px;
+            padding: 0;
+        }
+        .etaps .advBit {
+            width: 100%;
+        }
+        .contacts #calcul-form .form__item {
+            margin-left: -10px;
+            width: 100%;
+        }
+        #calcul-form .popup_btn {
+            width: 100%;
+        }
+        .contacts h1 {
+            font-size: 33px;
+        }
+        .contacts .form h3 {
+            font-size: 25px;
+        }
+}
+@media (max-width:500px){
+    .contact, .address {
+        width: 180px;
+        margin: 10px 0px 10px 0;
+    }
+    .header .phone {
+        font-size: 14px;
+    }
+    .header .mail {
+        font-size: 12px;
+    }
+    .service .conteiner {
+        position: absolute;
+        top: 10px;
+        left: 0;
+        margin-left: 0;
+    }
+    .service .form {
+        width: 100%;
+        left: 0;
+        padding: 10px;
+        height: 440px;
+    }
+    #reviewList .slideText {
+        padding: 28px 30px;
+    }
+}
+@media (max-width:400px){
+    .header_contact .logo__pic {
+        width: 100%;
+    }
+}
